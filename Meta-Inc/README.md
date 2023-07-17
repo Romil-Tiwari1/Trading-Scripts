@@ -49,5 +49,8 @@ Stock Prices: This script works with historical stock price data, providing hand
 
 3. Moving Average: The ARIMA model implemented in this script includes the concept of a moving average, a commonly used technique in financial analysis.
 
+![Meta_StockPrediction](https://github.com/Romil-Tiwari1/Trading-Scripts/assets/113132341/2be3ff8a-a7dc-4fe0-8100-137725829e60)
+
+
 # Notes
 This script is for demonstration purposes only and should not be used for financial advice. The accuracy of the models' predictions is dependent on the quality and quantity of the historical data provided.
